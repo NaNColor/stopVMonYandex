@@ -14,6 +14,6 @@ python stopcloudVMs.py -t <IAM-token> [-c <cloudId> [-f <folderId> [-i <instance
 ## Пример запуска
 <center>
   
-![image](https://github.com/NaNColor/stopVMonYandex/assets/55803598/fe3acb5a-c439-4d00-bba0-a02d8ee66880)
+![image](https://github.com/NaNColor/stopVMonYandex/assets/55803598/c18cc0c7-a720-4b80-957b-1a03b4fdbb1e)
 
 </center>
