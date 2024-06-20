@@ -11,6 +11,15 @@ pip install requests
 python stopcloudVMs.py -t <IAM-token> [-c <cloudId> [-f <folderId> [-i <instanceId>]]]
 ```
 После выполнения программа выводит instanceId каждой ВМ, которая была выключена.
+
+Параметры:
+```
+-t, --token - IAM-token для авторизации по API 
+-c, --cloud - cloudId для выбора определенного облака
+-f, --folder - folderId для выбора каталога
+-i, --instance - instanceId для выключения определенной ВМ, если expired_date просрочена
+```
+
 ## Пример запуска
 <center>
   
